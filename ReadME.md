@@ -4,8 +4,8 @@
 - Node installed
 
 *Steps for setup*
-- Run npm i @wdio/selenium-standalone-service --save-dev in the project folder
 - Run npm install in the project folder
+- Run npm i @wdio/selenium-standalone-service --save-dev in the project folder
 - Run npm install -g allure-commandline --save-dev
 
 
