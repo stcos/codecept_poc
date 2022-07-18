@@ -1,6 +1,7 @@
 *Prerequisites WebDriverIO:*
 - Java8 or higher
 - Chrome installed
+- Node installed
 
 *Steps for setup*
 - Run npm i @wdio/selenium-standalone-service --save-dev in the project folder
