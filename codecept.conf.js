@@ -17,7 +17,8 @@ exports.config = {
     }
   },
   include: {
-    I: './steps_file.js'
+    I: './steps_file.js',
+    headerMenu: './pages/headerMenu.js'
   },
   bootstrap: null,
   mocha: {},
